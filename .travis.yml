@@ -16,8 +16,5 @@ arch:
 
 dist: bionic
 
-script: 
-  - mvn clean install -B -PwithRatCheck,integration
-
 jdk:
-  - openjdk8
+  - openjdk11
