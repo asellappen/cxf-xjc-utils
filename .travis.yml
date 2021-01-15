@@ -14,7 +14,7 @@ arch:
     - amd64
     - ppc64le
 
-dist: xenial
+dist: bionic
 
 jdk:
   - openjdk11
